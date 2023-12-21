@@ -5,8 +5,6 @@ Author: Syed Mahammada
 
 Date: 21/12/2023
 
-Medium Link to project: https://medium.com/@jararzaidi/project-predicting-heart-disease-with-classification-machine-learning-algorithms-fd69e6fdc9d6
-
 This project is organized as follows:
 
 Table of Contents
